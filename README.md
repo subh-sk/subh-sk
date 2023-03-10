@@ -1,9 +1,9 @@
 
 <!-- **subh-sk/subh-sk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 # Developer Boy
-# 👀 I’m interested in developing ML\AI
-# 🌱 currently learning Machine Learning
-# @subh__sk
+### 👀 I’m interested in developing ML\AI
+### 🌱 currently learning Machine Learning
+### @subh__sk
 
 <!-- Here are some ideas to get you started:
 
