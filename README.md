@@ -4,8 +4,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=subh-sk&label=Profile%20views&color=0e75b6&style=flat" alt="subh-sk" /> </p>
 
 
-## 🏆 GitHub Trophies
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=subh-sk&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="subh-sk" /> </p>
+
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=subh-sk&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="subh-sk" /> </p>
 
 - 🔭 I’m currently working on **Virtual Assistant**
 
