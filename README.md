@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **python,machine learning,html,css,etc**
 
-- 📫 How to reach me **subhash2004ka@gmail.com**
+- 📫 How to reach me **subhashfreelancer2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
