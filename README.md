@@ -55,9 +55,16 @@
 </p>
 
 <h1 align="center">📊 GitHub Stats:</h1>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=subh-sk&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="subh-sk" /> </p><br/>
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=subh-sk&theme=dark&hide_border=false" alt="subh-sk" /> </p><br/>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subh-sk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="subh-sk" /> </p><br/>
+
+<p align="center"><img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=subh-sk&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/></p><br>
+
+ <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=subh-sk&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="subh-sk" /> </p><br/> -->
+ 
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=subh-sk&theme=dark&hide_border=false" alt="subh-sk" /> </p><br/>
+
+
 <h2 align="center">🔝 Top Contributed Repo</h2>
 <p align="center"> <img src="https://github-contributor-stats.vercel.app/api?username=subh-sk&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="subh-sk" /> </p><br/>
 
