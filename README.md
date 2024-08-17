@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Subhash Kumar</h1>
-<h3 align="center">A passionate backend, AI/ML developer from India</h3>
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=subh-sk&label=Profile%20views&color=0e75b6&style=flat" alt="subh-sk" /> </p> -->
-<p align="center"> <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" alt="subh-sk" /> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" alt="subh-sk" width="600px" /> </p>
+
+<h1 align="center">Hi 👋, I'm Subhash Kumar</h1>
+<h3 align="center">A passionate backend, AI/ML developer from India</h3>
 
 
 
